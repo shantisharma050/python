@@ -1,1 +1,2 @@
-today is a very icy cold day.
+today is a very icy cold day
+I am testing new git repositories..
